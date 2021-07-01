@@ -1,1 +1,1 @@
-today wer are going to review the how to create a webpage with a button and a form and generate data 
+today we are going to review the how to create a webpage with a button and a form and generate data 
